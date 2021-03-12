@@ -1,11 +1,11 @@
-
-<img width="800" alt="Screenshot 2021-03-12 at 14 01 37" src="https://user-images.githubusercontent.com/43652071/110920194-1bf4af00-8343-11eb-8dac-271bd98dfe2f.gif">
-<img width="800" alt="Screenshot 2021-03-12 at 14 01 37" src="https://user-images.githubusercontent.com/43652071/110913927-be109900-833b-11eb-8221-eb70f282bb95.png">
-<img width="800" alt="Screenshot 2021-03-12 at 14 01 40" src="https://user-images.githubusercontent.com/43652071/110913931-bf41c600-833b-11eb-8f10-15efc78978a0.png">
 # Personal-ExpensesApp
 A new Flutter project.
 
 ## Getting Started
+<img width="800" alt="Screenshot 2021-03-12 at 14 01 37" src="https://user-images.githubusercontent.com/43652071/110920194-1bf4af00-8343-11eb-8dac-271bd98dfe2f.gif">
+<img width="800" alt="Screenshot 2021-03-12 at 14 01 37" src="https://user-images.githubusercontent.com/43652071/110913927-be109900-833b-11eb-8221-eb70f282bb95.png">
+<img width="800" alt="Screenshot 2021-03-12 at 14 01 40" src="https://user-images.githubusercontent.com/43652071/110913931-bf41c600-833b-11eb-8f10-15efc78978a0.png">
+
 
 #Screenshots
 <img height="400" alt="quiz" src="https://user-images.githubusercontent.com/43652071/110907561-97e6fb00-8333-11eb-9034-8350812cdf66.gif">
