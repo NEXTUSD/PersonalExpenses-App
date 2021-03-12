@@ -2,9 +2,7 @@
 A new Flutter project.
 
 ## Getting Started
-<img width="800" alt="Screenshot 2021-03-12 at 14 01 37" src="https://user-images.githubusercontent.com/43652071/110920194-1bf4af00-8343-11eb-8dac-271bd98dfe2f.gif">
-<img width="800" alt="Screenshot 2021-03-12 at 14 01 37" src="https://user-images.githubusercontent.com/43652071/110913927-be109900-833b-11eb-8221-eb70f282bb95.png">
-<img width="800" alt="Screenshot 2021-03-12 at 14 01 40" src="https://user-images.githubusercontent.com/43652071/110913931-bf41c600-833b-11eb-8f10-15efc78978a0.png">
+
 
 
 #Screenshots
@@ -16,3 +14,7 @@ A new Flutter project.
 <img width="300" alt="quiz" src="https://user-images.githubusercontent.com/43652071/110907536-91588380-8333-11eb-9eba-2026441414e8.jpg">
 <img width="300" alt="quiz" src="https://user-images.githubusercontent.com/43652071/110907548-93badd80-8333-11eb-9674-e7f6e9c5bb75.jpg">
 
+
+<img width="800" alt="Screenshot 2021-03-12 at 14 01 37" src="https://user-images.githubusercontent.com/43652071/110920194-1bf4af00-8343-11eb-8dac-271bd98dfe2f.gif">
+<img width="800" alt="Screenshot 2021-03-12 at 14 01 37" src="https://user-images.githubusercontent.com/43652071/110913927-be109900-833b-11eb-8221-eb70f282bb95.png">
+<img width="800" alt="Screenshot 2021-03-12 at 14 01 40" src="https://user-images.githubusercontent.com/43652071/110913931-bf41c600-833b-11eb-8f10-15efc78978a0.png">
