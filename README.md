@@ -1,16 +1,13 @@
-# expenses
+# Personal-ExpensesApp![expense2]
+(https://user-images.githubusercontent.com/43652071/110906971-bef0fd00-8332-11eb-9379-bccead51c5ec.gif)
+
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="400" alt="quiz" src="https://user-images.githubusercontent.com/43652071/110906479-01660a00-8332-11eb-8ed2-2f404b3f7ad0.gif">
+<img width="400" alt="quiz" src="https://user-images.githubusercontent.com/43652071/110906971-bef0fd00-8332-11eb-9379-bccead51c5ec.gif">
